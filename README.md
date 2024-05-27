@@ -1,7 +1,7 @@
 # Isadora
 Boas vindas ao meu perfil!
 
-Meu nome é Isadora Pires
+Meu nome é Isadora Pires!
 
 Estou estudando na Alura,
 estou me desenvolvendo na linguagem JavaScript.
